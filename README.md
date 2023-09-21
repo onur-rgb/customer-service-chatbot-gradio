@@ -50,6 +50,3 @@ This chatbot uses prompt engineering to guide user interactions and generate res
 Feel free to explore and customize this code to meet your specific requirements. If you have any questions or need further assistance, please don't hesitate to reach out.
 
 Happy chatting!
-```
-
-This combined README markdown file provides an overview of your project, installation instructions, usage guidelines, information about rate limiting, and details about the Gradio chat interface and prompt engineering.
